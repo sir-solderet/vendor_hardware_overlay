@@ -154,6 +154,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-oneplus-ace2v-systemui \
 	treble-overlay-oneplus-ace3 \
 	treble-overlay-oneplus-ace3-systemui \
+	treble-overlay-oneplus-ace3v \
+	treble-overlay-oneplus-ace3v-systemui \
 	treble-overlay-oneplus-acepro \
 	treble-overlay-oneplus-acepro-systemui \
 	treble-overlay-oneplus-n10 \
@@ -197,6 +199,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-razer-cheryl \
 	treble-overlay-realme-10pro \
 	treble-overlay-realme-10pro-systemui \
+	treble-overlay-realme-14proplus \
+	treble-overlay-realme-14proplus-systemui \
 	treble-overlay-realme-6 \
 	treble-overlay-realme-6i \
 	treble-overlay-realme-8-5g \
@@ -416,6 +420,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redmik50ultra \
 	treble-overlay-xiaomi-redmik70 \
 	treble-overlay-xiaomi-redmik70-systemui \
+	treble-overlay-xiaomi-redmik70ultra \
+	treble-overlay-xiaomi-redmik70ultra-systemui \
 	treble-overlay-xiaomi-redminote10 \
 	treble-overlay-xiaomi-redminote10pro \
 	treble-overlay-xiaomi-redminote10s \
